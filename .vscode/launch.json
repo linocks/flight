@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CharterApiApplication",
+            "request": "launch",
+            "mainClass": "com.stlghana.rentair.CharterApiApplication",
+            "projectName": "charter-api"
+        }
+    ]
+}

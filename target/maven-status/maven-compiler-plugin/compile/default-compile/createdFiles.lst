@@ -1,0 +1,16 @@
+com\stlghana\rentair\dto\SeatVM.class
+com\stlghana\rentair\entity\Airport.class
+com\stlghana\rentair\repository\ReactiveSeatRepository.class
+com\stlghana\rentair\CharterApiApplication.class
+com\stlghana\rentair\repository\ReactiveAirportRepository.class
+com\stlghana\rentair\dto\AirportVM.class
+com\stlghana\rentair\api\CharterResource.class
+com\stlghana\rentair\api\CharterAdministrationResource.class
+com\stlghana\rentair\dto\FlightVM.class
+com\stlghana\rentair\entity\Flight.class
+com\stlghana\rentair\config\MongoConfig.class
+com\stlghana\rentair\repository\ReactiveBookingClassRepository.class
+com\stlghana\rentair\dto\BookingClassVM.class
+com\stlghana\rentair\entity\BookingClass.class
+com\stlghana\rentair\entity\Seat.class
+com\stlghana\rentair\repository\ReactiveFlightRepository.class
